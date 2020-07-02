@@ -3,7 +3,7 @@
     "name": "Google Fit",
     "documentation": "https://github.com/johro897/google_fit_hass",
     "dependencies": [],
-    "codeowners": ["@johro897"],
+    "codeowners": ["@johro897","@hemantkamalakar"],
     "requirements": [
       "integrationhelper==0.1.0",
       "google-api-python-client==1.6.4",
