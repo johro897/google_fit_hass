@@ -1,9 +1,9 @@
 {
     "domain": "google_fit_hass",
-    "name": "Google fit hass",
-    "documentation": "https://github.com/hemantkamalakar/google_fit_hass",
+    "name": "Google Fit",
+    "documentation": "https://github.com/johro897/google_fit_hass",
     "dependencies": [],
-    "codeowners": ["@hemantkamalakar"],
+    "codeowners": ["@johro897"],
     "requirements": [
       "integrationhelper==0.1.0",
       "google-api-python-client==1.6.4",
